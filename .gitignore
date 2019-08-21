@@ -1,0 +1,4 @@
+venv372
+*.DS_Store
+
+*ipynb_checkpoints
